@@ -21,7 +21,7 @@ I’m a self-taught technology enthusiast with a strong passion for continuous l
 
 ## Main Projects
 
-- Handcrafted Haven: A online e-commerce [Handcrafted Haven] (https://github.com/Menocas17/fullstask-force)
+- Handcrafted Haven: A online e-commerce [Handcrafted Haven](https://github.com/Menocas17/fullstask-force)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 <!--
