@@ -1,25 +1,27 @@
 
-# <Your Name Here>
+# <Rodolfo Menocal>
 
 Hello, GitHub! 👋
 
-I'm <Your Name Here>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Rodolfo Menocal, a student at Brigham Young University-Idaho interested in Web and Mobile development. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+I’m a self-taught technology enthusiast with a strong passion for continuous learning and innovation. Currently in my final year of a Software Development degree, I am eager to apply the knowledge and skills I have acquired over the years. I am actively seeking opportunities to gain hands-on experience, contribute to real-world projects, and further develop my expertise in software development
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: TypeScrit, Tailwind CSS, NestJS, NextJS, React.
+- Skills: Time management, Attention to detail, Assertive communication, PostgreSQL, MongoDB.
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [LinkedIn](www.linkedin.com/in/r-menocal-rjmc2817) profile
+- Here is my [Instagram](https://www.instagram.com/rodolfo_menocal/) profile
+
+## Main Projects
+
+- Handcrafted Haven: A online e-commerce [Handcrafted Haven] (https://github.com/Menocas17/fullstask-force)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 <!--
