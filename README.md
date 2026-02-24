@@ -1,27 +1,46 @@
 
 # <Rodolfo Menocal>
 
-Hello, GitHub! 👋
+Hi! 👋
 
-I'm Rodolfo Menocal, a student at Brigham Young University-Idaho interested in Web and Mobile development. Welcome to my GitHub profile!
+I'm Rodolfo Menocal, a software developer specialized in the frontend with strong proficiency in the backend. Welcome to my GitHub profile!
 
 ## About Me
 
-I’m a self-taught technology enthusiast with a strong passion for continuous learning and innovation. Currently in my final year of a Software Development degree, I am eager to apply the knowledge and skills I have acquired over the years. I am actively seeking opportunities to gain hands-on experience, contribute to real-world projects, and further develop my expertise in software development
+I’m a developer who loves to figure out how things work. Since I was a little kid, I fell in love with computers, and I went from repairing them to understanding the boundaries between hardware and software, and eventually discovering my passion for designing and architecting web applications. 
 
-## Technologies and Tools
+I enjoy breaking down complex problems, thinking in terms of scalability and maintainability, and understanding the tradeoffs behind technical decisions, not just making things work, but making them work well.
 
-- Proficient in: TypeScrit, Tailwind CSS, NestJS, NextJS, React.
-- Skills: Time management, Attention to detail, Assertive communication, PostgreSQL, MongoDB.
+I earned a B.S. in Software Development from BYU-Idaho, this milestone helped to solidify my self-taught foundation. I chose to specialize in the React and Next.js ecosystem, though I have strong foundations in backend technologies and architectures.
 
-## Let's Connect!
+I’m currently seeking my first professional role, where I can grow alongside a collaborative team and contribute by turning technical curiosity into clean, reliable, and scalable software.
 
-- Here is my [LinkedIn](www.linkedin.com/in/r-menocal-rjmc2817) profile
-- Here is my [Instagram](https://www.instagram.com/rodolfo_menocal/) profile
+## 🛠️ Technologies & Tools
 
-## Main Projects
+**Languages & Frontend**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-- Handcrafted Haven: A online e-commerce [Handcrafted Haven](https://github.com/Menocas17/fullstask-force)
+**Backend & Architecture**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+- 🌱 I’m currently refining my knowledge and skill with global state management tools and technologies like redux and zustand, also I'm really interested in mobile development, and I'm exploring technologies like react native and flutter.
+
+
+## 📂 Main Projects
+
+### [FitShare-Life App](https://fit-share-life-two.vercel.app/)
+A workout management platform with social features.
+- **Stack:** Next.js, TypeScript, Tailwind CSS, NestJS.
+
+### [Notes App](https://notes-app-frontend-j8kt.onrender.com/)
+A full-stack online note editor designed for organization and speed.
+- **Stack:** React, Node.js, MongoDB.
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/menocas)
+- 🌐 [Portfolio](https://menocal.dev/)
+- 📧 [rodolfomenocal17@gmail.com](mailto:rodolfomenocal17@gmail.com)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 <!--
