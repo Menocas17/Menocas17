@@ -30,11 +30,11 @@ I’m currently seeking my first professional role, where I can grow alongside a
 
 ### [FitShare-Life App](https://fit-share-life-two.vercel.app/)
 A workout management platform with social features.
-- **Stack:** Next.js, TypeScript, Tailwind CSS, NestJS.
+- **Stack:** Next.js, TypeScript, Tailwind CSS, Supabase.
 
 ### [Notes App](https://notes-app-frontend-j8kt.onrender.com/)
 A full-stack online note editor designed for organization and speed.
-- **Stack:** React, Node.js, MongoDB.
+- **Stack:** React, TypeScript, NestJS, Tanstack Query, Tailwind CSS.
 
 ## 📫 Let's Connect!
 
